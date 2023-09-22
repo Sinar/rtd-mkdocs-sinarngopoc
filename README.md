@@ -1,5 +1,5 @@
-Read the Docs MkDocs Test Project
-=================================
+Read the Docs MkDocs Test Project for POC
+=========================================
 
 This is a test project for verifying different versions of mkdocs on Read the Docs
 
